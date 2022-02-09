@@ -1,0 +1,1 @@
+Junior at *UTDallas* pursuing **Computer Science BS and Statistics Minor** with ambitions in **ML/Data Science**. Currently self-learning data science skills including *SQL, Pandas, Numpy, Databases*, etc. Technologically inclined with a background in STEM and hobbies rooted in electronics/circuits, 3D modeling/printing, and computer programming.
